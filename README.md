@@ -1,0 +1,2 @@
+# BeamMPConfigEditorByAce06
+一个面向Windows的BeamMP Config编辑器
