@@ -42,7 +42,7 @@ Tags  {"Freeroam", "Drift", "Racing", "Roleplay", "Cruise", "Derby",
 
 -------------------------------------------------------------------------
 # BeamMPConfigEditorByAce06
-#README EU Ver 
+#README EN Ver 
 A lightweight BeamMP Config editor for Windows
 Having the following functions (as of February 7, 2026)
 New, Open, Save, Save As.
