@@ -65,7 +65,9 @@ A lightweight BeamMP Config editor for Windows,Having the following functions (a
 -ImScaredOfUpdates
 -SendErrors
 -SendErrorsShowMessage
+----------------------------------------------------------------------------
 -Press Tab to automatically complete the values, including the following:
+----------------------------------------------------------------------------
 -Private { "true", "false" } 
 -Debug   { "true", "false" } 
 -LogChat { "true", "false" } 
